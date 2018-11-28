@@ -1,0 +1,6 @@
+# dependencies
+node_modules
+/.idea/encodings.xml
+.idea/encodings.xml
+.idea/workspace.xml
+assets/fonts/
